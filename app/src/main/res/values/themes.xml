@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.AvgPrice" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#0E1013</item>
+        <item name="android:windowBackground">#0E1013</item>
+    </style>
+</resources>
